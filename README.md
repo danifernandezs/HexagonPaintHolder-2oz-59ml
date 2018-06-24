@@ -9,6 +9,8 @@ Está disponible tanto el fichero STL como el fichero original de FreeCAD.
 
 [Fichero FreeCAD](./design-files/HexagonPaintHolder.fcstd)
 
+[Enlace a Thingiverse](https://www.thingiverse.com/thing:2976074)
+
 ---
 
 3D printable paint holders with Hexagon shape, i used tail connections (milano tail), designed for 2oz/59ml acrilyc paint bottles, 35mm diameter.
@@ -19,6 +21,7 @@ You can access for the STL file and the original FreeCAD file/design.
 
 [FreeCAD File](./design-files/HexagonPaintHolder.fcstd)
 
+[Thingiverse Link](https://www.thingiverse.com/thing:2976074)
 
 ## Imágenes del Diseño/Design Snapshots
 
